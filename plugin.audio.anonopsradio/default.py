@@ -77,7 +77,7 @@ def makeRequest(url, headers=None):
 				
 def SKindex():
     addon_log("SKindex")
-    addDir('Favorites','Favorites',4,'https://simplekore.com/Tut/VideoAddon/favorite.png' ,  FANART,'','','','')
+    addDir('Favorites','Favorites',4,'https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/V2/images/Favorites.png' ,  FANART,'','','','')
     getData(_Edit.MainBase,'')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 		
