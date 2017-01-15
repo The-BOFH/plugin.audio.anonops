@@ -1,0 +1,13 @@
+<item>
+<title>Radio Anonops</title>
+<link>http://stream.anonops.com:8080/AnonOps</link>
+<thumbnail>https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/o1XuBFO.png</thumbnail>
+<fanart>https://radio.anonops.com/public/img/5.jpg</fanart>
+</item>
+
+<item>
+<title>AnonNews</title>
+<link>http://stream.anonops.com:8080/AnonNews</link>
+<thumbnail>https://raw.githubusercontent.com/Based-Skid/plugin.audio.anonopsradio/master/images/QPqSTEd.png</thumbnail>
+<fanart>https://radio.anonops.com/public/img/4.jpg</fanart>
+</item>

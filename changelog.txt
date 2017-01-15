@@ -1,3 +1,40 @@
+1.5.0
+Server Sided Station/Archive/Video list, Should Anonops ever decide 
+to host part of or the whole addon they would be able to have full 
+control of what station and who is in the archive,etc, they could even 
+get real creative and give the DJ's the ability to edit their archive 
+without giving them access to an anonops backend. 
+
+
+
+
+Added in a Archive Section! This will be further expanded on once I figure out a Viable method for archiving them.
+
+
+MixCloud and other Services are using cloudflare and or other WAF 
+software that makes hotlinking to the direct file impossibile with kodi
+
+
+I have a Proposed Solution for this,
+
+
+I could host the archives of the shows on cdn.basedsec.pro
+
+
+I have No Problem hosting Archives of RadioShows but some may consider this a conflict of interest.
+
+
+An alternative is if the dj provide his own hosting then the files could be hotlinked there.
+
+
+Another could be let anonops host it (unlikely)
+
+
+If we can find a host that we can upload mp3/m4a and hotlink to it then that could work.
+
+
+Im opting to host archives on my cdn because i want to provide a 
+stable host and dont want an addon that points to a bunch of 404'd links
 1.0.0
 Repo Update Test
 
