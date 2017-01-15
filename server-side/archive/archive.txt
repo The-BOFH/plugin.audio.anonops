@@ -1,1 +1,29 @@
+<layouttype>thumbnail</layouttype>
 
+
+<channels>
+<channel>
+<name>The Blender - BOFH</name>
+<thumbnail></thumbnail>
+<externallink>https://cdn.basedsec.pro/statickodi/radioanonops/archive/bofh/bofh.txt</externallink>
+<fanart>https://radio.anonops.com/public/img/2.jpg</fanart>
+<info>Bastards Blender Show</info>
+</channel>
+
+<channel>
+<name>Excessive Force - NATO</name>
+<thumbnail></thumbnail>
+<externallink>https://cdn.basedsec.pro/statickodi/radioanonops/archive/nato/nato.txt</externallink>
+<fanart>https://radio.anonops.com/public/img/3.jpg</fanart>
+<info>DJ Archives</info>
+</channel>
+
+<channel>
+<name>Showtitle - USER </name>
+<thumbnail></thumbnail>
+<externallink>https://radio.anonops.com/public/img/1.jpg</externallink>
+<fanart></fanart>
+<info>Anonops Youtube Chans</info>
+</channel>
+
+</channels>
