@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail></thumbnail>
+<externallink>http://cdn.basedsec.pro/statickodi/radioanonops/archive/bofh/s1/slist.txt</externallink>
+<fanart></fanart>
+<info>Bastards Blender Show Season 1</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail></thumbnail>
+<externallink>http://cdn.basedsec.pro/statickodi/radioanonops/archive/bofh/s2/slist.txt</externallink>
+<fanart></fanart>
+<info>Bastards Blender Show Season 2</info>
+</channel>
+
+<channel>
+<name>Season 3 </name>
+<thumbnail></thumbnail>
+<externallink>http://cdn.basedsec.pro/statickodi/radioanonops/archive/bofh/s3/slist.txt</externallink>
+<fanart></fanart>
+<info>Bastards Blender Show Season 3</info>
+</channel>
+
+</channels>
